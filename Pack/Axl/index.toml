@@ -1,0 +1,106 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/gaymen.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/mahoutsukai.cfg"
+hash = "aaa17337288ff33958d714ee456adf75853c340355ea61bccb21530c970b99c0"
+
+[[files]]
+file = "config/thebetweenlands/config.cfg"
+hash = "303d1d18d4a5368b6b7e4167218c6456ad1b055f3874f3fbda326f54ebfd2231"
+
+[[files]]
+file = "config/thebetweenlands/config_version"
+hash = "92521fc3cbd964bdc9f584a991b89fddaa5754ed1cc96d6d42445338669c1305"
+
+[[files]]
+file = "mods/OptiFine_1.12.2_HD_U_G5_MOD.jar"
+hash = "a2b6de2fe1ba07d3f5f061244c4ac7fef67b8675f23cbf6bd79efd20f86a72e9"
+
+[[files]]
+file = "mods/advanced-rocketry.pw.toml"
+hash = "e8391cc00c6f79a19b5c7ab7916eb0d06650792c99df56c6d4a6644424a0301b"
+metafile = true
+
+[[files]]
+file = "mods/angry-pixel-the-betweenlands-mod.pw.toml"
+hash = "1d3b0b677a306102a497aaeaf63b725a703bfdf3a053cfef8952bb256f8fe7d3"
+metafile = true
+
+[[files]]
+file = "mods/betweencards.pw.toml"
+hash = "77eb7058be30b6597b61392af52d3001d67955ceb1804de4ccbe4797c9d88595"
+metafile = true
+
+[[files]]
+file = "mods/born-in-a-barn.pw.toml"
+hash = "f011f1f51641f666c4f25eaed5d4aa414d3a7cec4f790a2906178f5d299035ed"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "4898ca84a5742f1e99ba9774c64e739323c21dad5e750961613000986317b4fe"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "89e83ab7b9a0bf5de988cd7ee9448e64fb9682e80cb1d514c05783f7ec47ff91"
+metafile = true
+
+[[files]]
+file = "mods/libvulpes.pw.toml"
+hash = "09ddaa6cba7a9c86e7429492deb3ef0b8def5a8f10234a5f2b50173789574d01"
+metafile = true
+
+[[files]]
+file = "mods/mahou-tsukai.pw.toml"
+hash = "6a37c0f06c9e153578250cad0ca2b583be61808f88cde08e127e3d982464d2c7"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "23a8d6b69e0153452509b57edb45472a327acfdd87242d0ea52dcda0b1439e5f"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "25acc0e6f8593e38d35df3973edfa181793ec831cd9a3cc3637642c54d5e8fb4"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "c2c9d866c1bc629a6b126b9ea138c9ebf1dd18afc9ce7297740ddcd7866ac7b1"
+metafile = true
+
+[[files]]
+file = "mods/ntm-extended.pw.toml"
+hash = "59512cb911a33e364f4741ac8da14b670d60063ee9c36c1c9da4a51ea2ea0f97"
+metafile = true
+
+[[files]]
+file = "mods/security-craft.pw.toml"
+hash = "f818542b12fd51afbbfd03a6c0d6f24b090dce950f9958c6e2d6b221b3525d39"
+metafile = true
+
+[[files]]
+file = "mods/serializationisbad.pw.toml"
+hash = "52f15ab08d2c34a1580506865063a3da66f012b4b95b88573efd41240cb68be4"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "73cc75a81650d42b7a0f08205e10a25fc047198ebf0eb45e3c649eaa5a189723"
+metafile = true
+
+[[files]]
+file = "mods/the-one-probe.pw.toml"
+hash = "260f0330b42aa9e33b8fb8165d06f64d29540b42f121dc9746c6ebcb7ef55158"
+metafile = true
+
+[[files]]
+file = "mods/tis-3d.pw.toml"
+hash = "fd46472c4bd4bf286eee7f2c1eacc625a0d00f0032cbc7afe35faba395ad86de"
+metafile = true
