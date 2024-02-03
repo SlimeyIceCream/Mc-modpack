@@ -66,11 +66,6 @@ hash = "89e83ab7b9a0bf5de988cd7ee9448e64fb9682e80cb1d514c05783f7ec47ff91"
 metafile = true
 
 [[files]]
-file = "mods/foamfix-optimization-mod.pw.toml"
-hash = "7977514914adf41c3dad0459b1ae4028bd7ed6832595ee12e16c334bea673292"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "03e73fd05e7582c9db626ad68904e6e5445b40d6be4f618a918cfb83ace9bb96"
 metafile = true
