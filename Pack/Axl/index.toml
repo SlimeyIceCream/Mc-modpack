@@ -126,6 +126,11 @@ hash = "0ed80f49d1a44503c6be395e8e058e21cdb9434bdc5bc339329eced05ecf14e1"
 metafile = true
 
 [[files]]
+file = "mods/randompatches-forge.pw.toml"
+hash = "93d16979ce8714c02e8e13cfb36d7f604e75ca334ec3349bf6d4e8e42f1c5563"
+metafile = true
+
+[[files]]
 file = "mods/security-craft.pw.toml"
 hash = "f818542b12fd51afbbfd03a6c0d6f24b090dce950f9958c6e2d6b221b3525d39"
 metafile = true
