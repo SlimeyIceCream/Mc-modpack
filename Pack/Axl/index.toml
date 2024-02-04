@@ -5,20 +5,8 @@ file = "config/gaymen.cfg"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/mahoutsukai.cfg"
-hash = "b05f0fd818fc260c1523424be8a5ca50d9f87697aa1a2147294819544aa0bafe"
-
-[[files]]
 file = "config/randompatches.cfg"
 hash = "aab03fe459d33dfe3ef2ec2b58684e4e5e13478438bf6391331ea8516c38cbed"
-
-[[files]]
-file = "config/thebetweenlands/config.cfg"
-hash = "5c39ee1062b88645f983d6cfdde3072920dff3e8b2b4f2f4569f1682ff9a0634"
-
-[[files]]
-file = "config/thebetweenlands/config_version"
-hash = "92521fc3cbd964bdc9f584a991b89fddaa5754ed1cc96d6d42445338669c1305"
 
 [[files]]
 file = "config/voicechat/translations.properties"
