@@ -1,0 +1,17 @@
+name = "AXL-BOMBA"
+author = "Wafflasy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "78e2b04fc293ab0fd758e0d53c67e81732dd9d7391646e9d798ad9dbcda6475d"
+
+[versions]
+forge = "14.23.5.2859"
+minecraft = "1.12.2"
+
+[options]
+acceptable-game-versions = ["1.12", "1.12.1", "1.12.2"]
+no-internal-hashes = true
