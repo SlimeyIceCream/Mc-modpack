@@ -2,6 +2,10 @@ name = "JourneyMap"
 filename = "journeymap-1.12.2-5.7.1p1.jar"
 side = "both"
 
+[properties]
+optional = true
+description = "A more performance intensive map mod with more features."
+
 [download]
 hash-format = "sha1"
 hash = "90f5a0c76224f4483fa75d71cdfeed2019159750"
