@@ -2,7 +2,7 @@ name = "Chunk-Pregenerator"
 filename = "Chunk Pregenerator-V1.12-2.5.7.jar"
 side = "both"
 
-[options]
+[option]
 optional = true
 description = "A serverside mod you dont need. Dont choose it unless you know what it is."
 

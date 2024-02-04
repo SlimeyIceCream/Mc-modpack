@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunkpregenerator.pw.toml"
-hash = "db868ffbd9a59339c8f4c28de56a3a703e0d5dc97529ebb4dc2ef4a0be0938f5"
+hash = "4b91b03611de38d714a93db2d25fcc448435f5428fd6785ad80b6779385c96d1"
 metafile = true
 
 [[files]]
