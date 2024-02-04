@@ -49,6 +49,11 @@ hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
 
 [[files]]
+file = "mods/betteranimalsplus.pw.toml"
+hash = "026179f9c25ebe3045909c7754edf4465049617e9e8e7c0bca5f2cdb2c6db02e"
+metafile = true
+
+[[files]]
 file = "mods/betterfps.pw.toml"
 hash = "3be157f6924a51edca3ade05d9a2c9e16e13e376c874fa6eecb11d0bf6c0a2db"
 metafile = true
