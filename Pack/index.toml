@@ -64,6 +64,11 @@ hash = "e86b0efbbdaa466225d484b5585cf6b4874eb3d2eb30d59953fc1e5e7a98b80b"
 metafile = true
 
 [[files]]
+file = "mods/chunkpregenerator.pw.toml"
+hash = "b4f71ea9036dec18ed8e2fbf1b0c9f1c6fe8221701117a18797c0f1126894017"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
 metafile = true
