@@ -46,12 +46,10 @@ hash = "a2b6de2fe1ba07d3f5f061244c4ac7fef67b8675f23cbf6bd79efd20f86a72e9"
 
 [[files]]
 file = "mods/advanced-rocketry.pw.toml"
-hash = "e8391cc00c6f79a19b5c7ab7916eb0d06650792c99df56c6d4a6644424a0301b"
 metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
-hash = "d82215725e90de90b17ccc70c15825fc6b2c74100f1e26464ef17391b61d68f3"
 metafile = true
 
 [[files]]
