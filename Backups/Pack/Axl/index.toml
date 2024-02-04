@@ -5,12 +5,16 @@ file = "config/gaymen.cfg"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/mekanism.cfg"
+hash = "9c76556a6a824b20e6794af480972ae22673655a0ee8b8ee1d3bb1412e473041"
+
+[[files]]
 file = "config/randompatches.cfg"
 hash = "aab03fe459d33dfe3ef2ec2b58684e4e5e13478438bf6391331ea8516c38cbed"
 
 [[files]]
 file = "config/voicechat/translations.properties"
-hash = "6a521191220fe44d145da9a855fed277d9a19f4c09165425e64a2c7a03758ebb"
+hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
 file = "config/voicechat/username-cache.json"
@@ -22,7 +26,7 @@ hash = "115dda81e0b16411ed3e3191f9cb1a1a132ae95154a6dec8459f1295b9bda7ec"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "6ce5d25516eda09a718af92605e746e322598431eff080c3d51528a93976405d"
+hash = "b28a8ba5e69aeacdb45158ccb20384317b67d44ec8bfd355b0274857e1860058"
 
 [[files]]
 file = "config/voicechat/voicechat-volumes.properties"
@@ -84,6 +88,21 @@ hash = "89e83ab7b9a0bf5de988cd7ee9448e64fb9682e80cb1d514c05783f7ec47ff91"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "c0292bc41b72c79485981eb9d641df6beeb71d6a565054f615508d698f2dd127"
+metafile = true
+
+[[files]]
+file = "mods/doggy-talents.pw.toml"
+hash = "2e4371d179c3d1b8371b256932a3e7d906f05d1ff1fb88ee3d986eafe882d211"
+metafile = true
+
+[[files]]
+file = "mods/farming-for-blockheads.pw.toml"
+hash = "29485e844486f243f8d6b8b2428ee5b362295fde9d5ab00a6367d4402475c78b"
+metafile = true
+
+[[files]]
 file = "mods/foamfix.pw.toml"
 hash = "bd1d32f59a0c07dde51ea5431f6f419736bfeb53217983bc523c8ca4ce420181"
 metafile = true
@@ -131,6 +150,11 @@ metafile = true
 [[files]]
 file = "mods/ntm-extended.pw.toml"
 hash = "59512cb911a33e364f4741ac8da14b670d60063ee9c36c1c9da4a51ea2ea0f97"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft.pw.toml"
+hash = "58e364c18441b784d48f1bda8e4717dd93efd03eba136e454a90504690dfad93"
 metafile = true
 
 [[files]]
