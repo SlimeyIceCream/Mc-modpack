@@ -1,17 +1,13 @@
 name = "JourneyMap"
-filename = "journeymap-1.12.2-5.7.1.jar"
+filename = "journeymap-1.12.2-5.7.1p1.jar"
 side = "both"
 
-[option]
-optional = true
-description = "A more performance intensive map mod."
-
 [download]
-url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/vacvhRKp/journeymap-1.12.2-5.7.1.jar"
 hash-format = "sha1"
-hash = "3da4323f71bcadcf140002a9f49578f0cd5ce8a8"
+hash = "90f5a0c76224f4483fa75d71cdfeed2019159750"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "lfHFW1mp"
-version = "vacvhRKp"
+[update.curseforge]
+file-id = 5045718
+project-id = 32274
