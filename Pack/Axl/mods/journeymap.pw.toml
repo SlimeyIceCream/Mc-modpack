@@ -2,7 +2,7 @@ name = "JourneyMap"
 filename = "journeymap-1.12.2-5.7.1p1.jar"
 side = "both"
 
-[properties]
+[option]
 optional = true
 description = "A more performance intensive map mod with more features."
 
