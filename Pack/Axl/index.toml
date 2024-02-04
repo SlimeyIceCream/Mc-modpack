@@ -84,6 +84,18 @@ hash = "89e83ab7b9a0bf5de988cd7ee9448e64fb9682e80cb1d514c05783f7ec47ff91"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/doggy-talents.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/farming-for-blockheads.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/foamfix.pw.toml"
 hash = "bd1d32f59a0c07dde51ea5431f6f419736bfeb53217983bc523c8ca4ce420181"
 metafile = true
@@ -131,6 +143,10 @@ metafile = true
 [[files]]
 file = "mods/ntm-extended.pw.toml"
 hash = "59512cb911a33e364f4741ac8da14b670d60063ee9c36c1c9da4a51ea2ea0f97"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft.pw.toml"
 metafile = true
 
 [[files]]
