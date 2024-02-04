@@ -2,7 +2,7 @@ name = "Xaero's World Map"
 filename = "XaerosWorldMap_1.37.8_Forge_1.12.jar"
 side = "client"
 
-[option]
+[options]
 optional = true
 description = "A more performance friendly map mod with less features."
 
