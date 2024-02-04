@@ -1,11 +1,12 @@
 name = "AXL-BOMBA"
 author = "Wafflasy"
-version = "1.0.0"
+version = "1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
+hash = "e1286238361507aba4c1d663b8ddb2b6b157bfa22ab04b50c913ff9eb28a6255"
 
 [versions]
 forge = "14.23.5.2859"

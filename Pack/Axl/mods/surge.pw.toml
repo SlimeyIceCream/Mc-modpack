@@ -3,11 +3,11 @@ filename = "Surge-1.12.2-2.0.79.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/yuZ87vqR/versions/kg0VZj0v/Surge-1.12.2-2.0.79.jar"
 hash-format = "sha1"
 hash = "f7197d44a0f1fb1af216d3ba6b7e3c1ed06a36e9"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 2916357
-project-id = 250290
+[update.modrinth]
+mod-id = "yuZ87vqR"
+version = "kg0VZj0v"
