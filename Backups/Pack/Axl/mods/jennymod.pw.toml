@@ -1,0 +1,11 @@
+name = "Bagel Mod"
+filename = "Bagel.jar"
+side = "both"
+
+[download]
+url = "https://download1321.mediafire.com/ihkpwdurs7hgFhN0PBP0fpberHMQGjtXIDI4f3XCOgsgnVciioHoL3eNJA5wVcy2tfPPGp0pxzLn1M4c7c6YWQ7FUbTDkYQWItPmIkZ14EHZ57v-vMM792N1cZyvlkRQfFABEFMw-XrK-VNGB4I-RHsgQK_IrpY7tlRvK1Hsl41EGOo/4lhj056nuh3cjvl/Bagel.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1281eee9cbad828d01fd1bb62b77fbc1a27a8f178f7c8404351453e3a7625fec"
