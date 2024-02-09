@@ -104,11 +104,6 @@ hash = "d1583e5a76a3d77f42e81c73a7ed73cddcd5aa2551b689f5db4803587a77fe9a"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "9a4e81d9936e30393968afd7adb1b5337fbc3211f22f2c4e70c77db50678d3ae"
-metafile = true
-
-[[files]]
 file = "mods/libvulpes.pw.toml"
 hash = "09ddaa6cba7a9c86e7429492deb3ef0b8def5a8f10234a5f2b50173789574d01"
 metafile = true
