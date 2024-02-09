@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "13f6b69b89a1da904c8c11d87496fdbb6460f86d1867a90099e1aad3aa682029"
+hash = "b45723f984aa3fefed48b5c578acab57978f3c7f387f6e4eff6693cdfbd86b7e"
 metafile = true
 
 [[files]]
@@ -195,10 +195,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "3238d1d9486e398b44a9abbe9345cd572203b1e9f2237e9409d925d6984c6053"
+hash = "abe396d9c270cfeef609479ab76081597a8725ca2090ff79f0dbcdb274885f37"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "e831e3cdb629721ebb790a748788f55330a7f5a3cce091fd702ec4c69b6dd7c9"
+hash = "18af33d4892cf64a8b0572053676231a26e9f49a5e329add52567c8ef9d8a715"
 metafile = true

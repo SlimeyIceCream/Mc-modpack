@@ -11,7 +11,3 @@ hash = "0b202223322a4812c9c00b0adfcbc916744d0126"
 [update.modrinth]
 mod-id = "1bokaNcj"
 version = "Nvg8NDSW"
-
-[option]
-optional = true
-description = "Heavily recommended/required when using xaero's map."
