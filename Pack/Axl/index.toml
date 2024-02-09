@@ -2,161 +2,203 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/gaymen.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/randompatches.cfg"
+hash = "aab03fe459d33dfe3ef2ec2b58684e4e5e13478438bf6391331ea8516c38cbed"
 
 [[files]]
 file = "config/voicechat/translations.properties"
+hash = "6a521191220fe44d145da9a855fed277d9a19f4c09165425e64a2c7a03758ebb"
 
 [[files]]
 file = "config/voicechat/username-cache.json"
+hash = "cb9692bc36e127b5e3f6a80287c6d31b6f1ba4d15f46ce9dda3b5c469cf2f672"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
+hash = "115dda81e0b16411ed3e3191f9cb1a1a132ae95154a6dec8459f1295b9bda7ec"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
+hash = "6ce5d25516eda09a718af92605e746e322598431eff080c3d51528a93976405d"
 
 [[files]]
 file = "config/voicechat/voicechat-volumes.properties"
+hash = "33afebdb8ef07a3d774086931dec8d899f4da7aeba5b448fd4eee540ba5e02a2"
 
 [[files]]
 file = "mods/advanced-rocketry.pw.toml"
+hash = "e8391cc00c6f79a19b5c7ab7916eb0d06650792c99df56c6d4a6644424a0301b"
 metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
+hash = "d82215725e90de90b17ccc70c15825fc6b2c74100f1e26464ef17391b61d68f3"
 metafile = true
 
 [[files]]
 file = "mods/angry-pixel-the-betweenlands-mod.pw.toml"
+hash = "1d3b0b677a306102a497aaeaf63b725a703bfdf3a053cfef8952bb256f8fe7d3"
 metafile = true
 
 [[files]]
 file = "mods/baubles.pw.toml"
+hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
 
 [[files]]
 file = "mods/betteranimalsplus.pw.toml"
+hash = "026179f9c25ebe3045909c7754edf4465049617e9e8e7c0bca5f2cdb2c6db02e"
 metafile = true
 
 [[files]]
 file = "mods/betterfps.pw.toml"
+hash = "3be157f6924a51edca3ade05d9a2c9e16e13e376c874fa6eecb11d0bf6c0a2db"
 metafile = true
 
 [[files]]
 file = "mods/betweencards.pw.toml"
+hash = "77eb7058be30b6597b61392af52d3001d67955ceb1804de4ccbe4797c9d88595"
 metafile = true
 
 [[files]]
 file = "mods/born-in-a-barn.pw.toml"
+hash = "f011f1f51641f666c4f25eaed5d4aa414d3a7cec4f790a2906178f5d299035ed"
 metafile = true
 
 [[files]]
 file = "mods/chunkpregenerator.pw.toml"
+hash = "b4f71ea9036dec18ed8e2fbf1b0c9f1c6fe8221701117a18797c0f1126894017"
 metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
+hash = "4898ca84a5742f1e99ba9774c64e739323c21dad5e750961613000986317b4fe"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
+hash = "89e83ab7b9a0bf5de988cd7ee9448e64fb9682e80cb1d514c05783f7ec47ff91"
 metafile = true
 
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
+hash = "c0292bc41b72c79485981eb9d641df6beeb71d6a565054f615508d698f2dd127"
 metafile = true
 
 [[files]]
 file = "mods/farming-for-blockheads.pw.toml"
+hash = "29485e844486f243f8d6b8b2428ee5b362295fde9d5ab00a6367d4402475c78b"
 metafile = true
 
 [[files]]
 file = "mods/foamfix.pw.toml"
+hash = "bd1d32f59a0c07dde51ea5431f6f419736bfeb53217983bc523c8ca4ce420181"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
+hash = "d1583e5a76a3d77f42e81c73a7ed73cddcd5aa2551b689f5db4803587a77fe9a"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
+hash = "9a4e81d9936e30393968afd7adb1b5337fbc3211f22f2c4e70c77db50678d3ae"
 metafile = true
 
 [[files]]
 file = "mods/libvulpes.pw.toml"
+hash = "09ddaa6cba7a9c86e7429492deb3ef0b8def5a8f10234a5f2b50173789574d01"
 metafile = true
 
 [[files]]
 file = "mods/mahou-tsukai.pw.toml"
+hash = "6a37c0f06c9e153578250cad0ca2b583be61808f88cde08e127e3d982464d2c7"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
+hash = "23a8d6b69e0153452509b57edb45472a327acfdd87242d0ea52dcda0b1439e5f"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.pw.toml"
+hash = "25acc0e6f8593e38d35df3973edfa181793ec831cd9a3cc3637642c54d5e8fb4"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
+hash = "c2c9d866c1bc629a6b126b9ea138c9ebf1dd18afc9ce7297740ddcd7866ac7b1"
 metafile = true
 
 [[files]]
 file = "mods/mixinbootstrap.pw.toml"
+hash = "042225fa484051292c770a8b22003e8b02cb70bb5ece75277fc6db2e7c9f4a83"
 metafile = true
 
 [[files]]
 file = "mods/ntm-extended.pw.toml"
+hash = "12a450b1c479cd8e983d2755d8a6262377c2e2c3d7428a735330e4fd6ce7c076"
 metafile = true
 
 [[files]]
 file = "mods/pams-harvestcraft.pw.toml"
+hash = "58e364c18441b784d48f1bda8e4717dd93efd03eba136e454a90504690dfad93"
 metafile = true
 
 [[files]]
 file = "mods/phosphor-forge.pw.toml"
+hash = "900c33ef3ec1924d7557882e955063e30726a81f662e1443b7a3d3ff66a557d1"
 metafile = true
 
 [[files]]
 file = "mods/phosphorcrashfix.pw.toml"
+hash = "0ed80f49d1a44503c6be395e8e058e21cdb9434bdc5bc339329eced05ecf14e1"
 metafile = true
 
 [[files]]
 file = "mods/randompatches-forge.pw.toml"
+hash = "93d16979ce8714c02e8e13cfb36d7f604e75ca334ec3349bf6d4e8e42f1c5563"
 metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
+hash = "f818542b12fd51afbbfd03a6c0d6f24b090dce950f9958c6e2d6b221b3525d39"
 metafile = true
 
 [[files]]
 file = "mods/serializationisbad.pw.toml"
+hash = "3ecec65e3a2ff50bfe96ba232533ac8117c3644903d0a01d5783c8f0f4baad45"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
+hash = "9bd987e127e8afa43f5c00d2768ed8e99de2fb85d9af2d21b5b3fd8a04bacf84"
 metafile = true
 
 [[files]]
 file = "mods/surge.pw.toml"
+hash = "76364bbc6e5ab454bdbd76fa3502bdee90c0bb842f6b405ed60f1d33c76053ee"
 metafile = true
 
 [[files]]
 file = "mods/the-one-probe.pw.toml"
+hash = "260f0330b42aa9e33b8fb8165d06f64d29540b42f121dc9746c6ebcb7ef55158"
 metafile = true
 
 [[files]]
 file = "mods/tis-3d.pw.toml"
+hash = "fd46472c4bd4bf286eee7f2c1eacc625a0d00f0032cbc7afe35faba395ad86de"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
+hash = "abe396d9c270cfeef609479ab76081597a8725ca2090ff79f0dbcdb274885f37"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
+hash = "18af33d4892cf64a8b0572053676231a26e9f49a5e329add52567c8ef9d8a715"
 metafile = true

@@ -2,6 +2,10 @@ name = "Xaero's Minimap"
 filename = "Xaeros_Minimap_23.9.7_Forge_1.12.jar"
 side = "client"
 
+[option]
+optional = true
+description = "Heavily recommended/required for xaero's map."
+
 [download]
 url = "https://cdn.modrinth.com/data/1bokaNcj/versions/Nvg8NDSW/Xaeros_Minimap_23.9.7_Forge_1.12.jar"
 hash-format = "sha1"
@@ -11,7 +15,3 @@ hash = "0b202223322a4812c9c00b0adfcbc916744d0126"
 [update.modrinth]
 mod-id = "1bokaNcj"
 version = "Nvg8NDSW"
-
-[option]
-optional = true
-description = "Heavily recommended/required when using xaero's map."

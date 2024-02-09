@@ -1,0 +1,162 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/gaymen.cfg"
+
+[[files]]
+file = "config/randompatches.cfg"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+
+[[files]]
+file = "config/voicechat/username-cache.json"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+
+[[files]]
+file = "config/voicechat/voicechat-volumes.properties"
+
+[[files]]
+file = "mods/advanced-rocketry.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/angry-pixel-the-betweenlands-mod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/baubles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/betteranimalsplus.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/betterfps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/betweencards.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/born-in-a-barn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chunkpregenerator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/farming-for-blockheads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/foamfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libvulpes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mahou-tsukai.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mixinbootstrap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ntm-extended.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/phosphor-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/phosphorcrashfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/randompatches-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/security-craft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/serializationisbad.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/surge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/the-one-probe.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tis-3d.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+metafile = true
