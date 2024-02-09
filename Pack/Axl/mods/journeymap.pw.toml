@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 5045718
 project-id = 32274
+
+[option]
+optional = true
+description = "The recommended map mod, if you really need to squeeze out some extra frames use xaeros map."
