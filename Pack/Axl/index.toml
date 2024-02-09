@@ -192,3 +192,8 @@ metafile = true
 file = "mods/tis-3d.pw.toml"
 hash = "fd46472c4bd4bf286eee7f2c1eacc625a0d00f0032cbc7afe35faba395ad86de"
 metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "696fe084c0533aa24cdf4d32665446bc881640215b9dc2a3d91d03ec6e010e1c"
+metafile = true
